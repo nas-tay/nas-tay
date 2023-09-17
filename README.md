@@ -5,7 +5,7 @@
 I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="[https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g](https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.gif?cid=dc61edab5cujltrwnlrui873z89k454xfmi9ebwfitnp06cl&ep=v1_gifs_search&rid=200w.gif&ct=g)" width="400"/>
+  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.gif" width="400"/>
 </div>
 
 - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
