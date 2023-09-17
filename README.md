@@ -6,9 +6,6 @@ I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
-
-<div align="center">
   - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
   - 🎓 I’m currently learning TypeScript and JS improvements
   - 💬 Ask me about programming, tennis, volleyball and hiking
