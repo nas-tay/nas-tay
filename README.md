@@ -37,8 +37,7 @@
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <img src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
