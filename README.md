@@ -5,12 +5,12 @@
 I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.gif" width="400"/>
+  <img src="img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400"/>
 </div>
 
 - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
 - 🎓 I’m currently learning TypeScript and JS improvements
-- 💬 Ask me about programming, tennis, volleyball and series
+- 💬 Ask me about programming, tennis, volleyball and hiking
 
 ### Connect with me:
 - <a href="https://linkedin.com/in/anastasia-karzanova-653bb4242" target="blank">LinkedIn</a>
