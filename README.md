@@ -1,12 +1,12 @@
-## Hi 👋,
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome+To+Anastasia's+Github+Profile...)](https://git.io/typing-svg)
 
 <br> 
  <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
-<h1 align="center">I'm Anastasia and I'm a Frontend developer👩🏽‍💻</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anastasia</h1>
+<h3 align="center">I'm a Frontend developer👩🏽‍💻
+</h3>
 
 - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
 - 🎓 I’m currently learning TypeScript and JS improvements
@@ -16,6 +16,13 @@
 - <a href="https://linkedin.com/in/anastasia-karzanova-653bb4242" target="blank">LinkedIn</a>
 - <a href="https://t.me/llll878" target="blank">Telegram</a>
 - <a href="nas-tay@ya.ru" target="blank">E-mail</a>
+
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nas-tay&)"><img src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
