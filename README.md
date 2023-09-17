@@ -1,12 +1,12 @@
 ## Hi 👋,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome+To+'nas-tay's+Github+Profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome+To+Anastasia's+Github+Profile...)](https://git.io/typing-svg)
 
-I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
-
-<div id="header" align="start">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
+<br> 
+ <p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
+<h1 align="center">I'm Anastasia and I'm a Frontend developer👩🏽‍💻</h1>
 
 - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
 - 🎓 I’m currently learning TypeScript and JS improvements
