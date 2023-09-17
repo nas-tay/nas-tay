@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
-  
+  <br/>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
