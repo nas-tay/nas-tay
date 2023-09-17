@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome+To+'nas-tay's+Github+Profile...)](https://git.io/typing-svg)
 
-<div id="header" align="center">
-  I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
-  <br/>
+I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
+
+<div id="header" align="start">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
