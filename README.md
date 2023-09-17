@@ -17,16 +17,6 @@
 - <a href="https://t.me/llll878" target="blank">Telegram</a>
 - <a href="nas-tay@ya.ru" target="blank">E-mail</a>
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact">
-</div> 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nas-tay&)"><img src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -44,3 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact">
+</div> 
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
