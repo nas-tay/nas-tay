@@ -11,6 +11,14 @@ I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
   - 💬 Ask me about programming, tennis, volleyball and hiking
 </div>
 
+<div id="header" align="center">
+  <div>
+    - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
+    - 🎓 I’m currently learning TypeScript and JS improvements
+    - 💬 Ask me about programming, tennis, volleyball and hiking
+</div> 
+</div>
+
 ### Connect with me:
 - <a href="https://linkedin.com/in/anastasia-karzanova-653bb4242" target="blank">LinkedIn</a>
 - <a href="https://t.me/llll878" target="blank">Telegram</a>
