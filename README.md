@@ -37,7 +37,7 @@
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-tay)](https://github.com/nas-tay/github-readme-stats)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nas-tay&layout=compact">
 </div> 
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=nas-tay&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nas-tay&)"><img src="https://activity-graph.herokuapp.com/graph?username=nas-tay&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
