@@ -8,9 +8,11 @@ I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-- 💻 I’m currently working on TypeScript, ReactJS, NodeJS
-- 🎓 I’m currently learning TypeScript and JS improvements
-- 💬 Ask me about programming, tennis, volleyball and hiking
+<div align="center">
+  - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
+  - 🎓 I’m currently learning TypeScript and JS improvements
+  - 💬 Ask me about programming, tennis, volleyball and hiking
+</div>
 
 ### Connect with me:
 - <a href="https://linkedin.com/in/anastasia-karzanova-653bb4242" target="blank">LinkedIn</a>
