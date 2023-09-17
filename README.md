@@ -5,7 +5,7 @@
 I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
 - 💻 I’m currently working on TypeScript, ReactJS, NodeJS
@@ -34,5 +34,6 @@ I'm Anastasia and I'm a Frontend developer from Almaty👩🏽‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
